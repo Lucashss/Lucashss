@@ -58,5 +58,5 @@
   ##
   
   ![Snake animation](https://github.com/lucashss/lucashss/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
