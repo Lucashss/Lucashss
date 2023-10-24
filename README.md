@@ -22,11 +22,7 @@
   
   ##
  
-  <h2>📚 Estudando 📚</h2>
-    <div>
-    <img align="center" alt="Kotlin" height="30" width="80" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
-    </div>
-  
+
   ##
   
   <h2>💻 IDE 💻</h2>
