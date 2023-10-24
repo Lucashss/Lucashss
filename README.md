@@ -1,5 +1,4 @@
 ## Olá, seja bem vindo ao meu GitHub, meu nome é Lucas Henrique.
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=lucashss.visitor-badge)
 ![image](https://img.shields.io/github/followers/lucashss?style=social)
 
  <h2>⭐ Status do GitHub ⭐</h2>
@@ -19,9 +18,6 @@
    <img align="center" alt="CSS3" height="30" width="60" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
    <img align="center" alt="Java" height="30" width="60" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
    </div>
-  
-  ##
- 
 
   ##
   
